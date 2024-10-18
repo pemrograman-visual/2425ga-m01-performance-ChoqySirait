@@ -50,7 +50,6 @@ public class M01 {
             }
             performa = kreditAngka * nilaiAngka;
             System.out.println(toFixed(performa,1));
-            kredit = input.nextLine();
         }
     }
     
